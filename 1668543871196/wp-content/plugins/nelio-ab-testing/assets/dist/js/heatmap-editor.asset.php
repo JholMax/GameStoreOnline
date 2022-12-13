@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('lodash', 'nab-components', 'nab-conversion-action-library', 'nab-data', 'nab-date', 'nab-editor', 'nab-experiment-library', 'nab-utils', 'react', 'wp-components', 'wp-data', 'wp-dom-ready', 'wp-element', 'wp-i18n', 'wp-notices'), 'version' => '29741722d7402b8ce4e2de9852a24c7c');

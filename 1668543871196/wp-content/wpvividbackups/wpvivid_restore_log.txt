@@ -1,0 +1,144 @@
+                                                                                                                                 Log created: 2022-11-14 20:45:15
+Type: restore
+[2022-11-14 20:45:15][notice]init restore data
+[2022-11-14 20:45:15][notice]Start restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_all.part001.zip
+[2022-11-14 20:45:15][notice]extract root:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/
+[2022-11-14 20:45:15][notice]start extracting file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_all.part001.zip
+[2022-11-14 20:45:17][notice]extract finished file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_all.part001.zip
+[2022-11-14 20:45:17][notice]Finished restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_all.part001.zip
+[2022-11-14 20:45:18][notice]Start restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_all.part002.zip
+[2022-11-14 20:45:18][notice]extract root:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/
+[2022-11-14 20:45:18][notice]start extracting file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_all.part002.zip
+[2022-11-14 20:45:18][notice]extract finished file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_all.part002.zip
+[2022-11-14 20:45:18][notice]Finished restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_all.part002.zip
+[2022-11-14 20:45:19][notice]Start restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_plugin.zip
+[2022-11-14 20:45:19][notice]restore from files:["\/opt\/lampp\/htdocs\/wordpress\/wp-content\/wpvividbackups\/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_plugin.zip"]
+[2022-11-14 20:45:19][notice]start extracting file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_plugin.zip
+[2022-11-14 20:45:21][notice]extract finished file:/opt/lampp/htdocs/wordpress/wp-co                                                                                                                                                                                                                                                                                                                                                                                                                                      ntent/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_plugin.zip
+[2022-11-14 20:45:21][notice]Finished restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_plugin.zip
+[2022-11-14 20:45:22][notice]Start restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_core.zip
+[2022-11-14 20:45:22][notice]restore from files:["\/opt\/lampp\/htdocs\/wordpress\/wp-content\/wpvividbackups\/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_core.zip"]
+[2022-11-14 20:45:22][notice]start extracting file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_core.zip
+[2022-11-14 20:45:23][notice]extract finished file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_core.zip
+[2022-11-14 20:45:23][notice]Finished restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_core.zip
+[2022-11-14 20:45:25][notice]Start restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_themes.zip
+[2022-11-14 20:45:25][notice]restore from files:["\/opt\/lampp\/htdocs\/wordpress\/wp-content\/wpvividbackups\/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_themes.zip"]
+[2022-11-14 20:45:25][notice]start extracting file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_themes.zip           
+[2022-11-14 20:45:25][notice]extract finished file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_themes.zip
+[2022-11-14 20:45:25][notice]Finished restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_themes.zip
+[2022-11-14 20:45:26][notice]Start restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_uploads.zip
+[2022-11-14 20:45:26][notice]restore from files:["\/opt\/lampp\/htdocs\/wordpress\/wp-content\/wpvividbackups\/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_uploads.zip"]
+[2022-11-14 20:45:26][notice]start extracting file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_uploads.zip
+[2022-11-14 20:45:26][notice]extract finished file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_uploads.zip
+[2022-11-14 20:45:26][notice]Finished restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_uploads.zip
+[2022-11-14 20:45:27][notice]Start restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_content.zip
+[2022-11-14 20:45:27][notice]restore from files:["\/opt\/lampp\/htdocs\/wordpress\/wp-content\/wpvividbackups\/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_content.zip"]
+[2022-11-14 20:45:27][notice]start extracting file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_content.zip
+[2022-11-14 20:45:27][notice]extract finished file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_content.zip
+[2022-11-14 20:45:27][notice]Finished restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_content.zip
+[2022-11-14 20:45:29][notice]Start restoring localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_db.zip
+[2022-11-14 20:45:29][notice]start extracting file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_db.zip
+[2022-11-14 20:45:29][notice]extract finished file:/opt/lampp/htdocs/wordpress/wp-content/wpvividbackups/localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_db.zip
+[2022-11-14 20:45:29][notice]sql file: localhost_wordpress_wpvivid-637143e54d040_2022-11-13-16-22_backup_db.sql
+[2022-11-14 20:45:29][Warning]wpdb
+[2022-11-14 20:45:29][notice]The test to create table succeeds.
+[2022-11-14 20:45:29][notice]The test to insert into table succeeds.
+[2022-11-14 20:45:29][notice]The test to drop table succeeds.
+[2022-11-14 20:45:29][notice]get max_allowed_packet wpdb 
+[2022-11-14 20:45:29][notice]max_allowed_packet less than 32M :1,00 MB
+[2022-11-14 20:45:29][notice]Start import sql file.
+[2022-11-14 20:45:29][notice]old site url:http://localhost/wordpress
+[2022-11-14 20:45:29][notice]old home url:http://localhost/wordpress
+[2022-11-14 20:45:29][notice]old content url:http://localhost/wordpress/wp-content
+[2022-11-14 20:45:29][notice]old upload url:http://localhost/wordpress/wp-content/uploads
+[2022-11-14 20:45:29][notice]old site prefix:wp_
+[2022-11-14 20:45:29][notice]Drop table if exist
+[2022-11-14 20:45:29][notice]Create table wp_actionscheduler_actions
+[2022-11-14 20:45:33][notice]Dumping table wp_actionscheduler_actions is complete. Start replacing row(s).
+[2022-11-14 20:45:33][notice]Count of rows in wp_actionscheduler_actions: 70
+[2022-11-14 20:45:33][notice]Replace the row in 0 line.
+[2022-11-14 20:45:33][notice]finish replace rows
+[2022-11-14 20:45:33][notice]Drop table if exist
+[2022-11-14 20:45:33][notice]Create table wp_actionscheduler_claims
+[2022-11-14 20:45:34][notice]Dumping table wp_actionscheduler_claims is complete. Start replacing row(s).
+[2022-11-14 20:45:34][notice]Count of rows in wp_actionscheduler_claims: 0
+[2022-11-14 20:45:34][notice]Drop table if exist
+[2022-11-14 20:45:34][notice]Create table wp_actionscheduler_groups
+[2022-11-14 20:45:35][notice]Dumping table wp_actionscheduler_groups is complete. Start replacing row(s).
+[2022-11-14 20:45:35][notice]Count of rows in wp_actionscheduler_groups: 10
+[2022-11-14 20:45:35][notice]Replace the row in 0 line.
+[2022-11-14 20:45:35][notice]finish replace rows
+[2022-11-14 20:45:35][notice]Drop table if exist
+[2022-11-14 20:45:35][notice]Create table wp_actionscheduler_logs
+[2022-11-14 20:45:48][notice]Dumping table wp_actionscheduler_logs is complete. Start replacing row(s).
+[2022-11-14 20:45:48][notice]Count of rows in wp_actionscheduler_logs: 194
+[2022-11-14 20:45:48][notice]Replace the row in 0 line.
+[2022-11-14 20:45:48][notice]finish replace rows
+[2022-11-14 20:45:48][notice]Drop table if exist
+[2022-11-14 20:45:48][notice]Create table wp_cartflows_ca_cart_abandonment
+[2022-11-14 20:45:49][notice]Dumping table wp_cartflows_ca_cart_abandonment is complete. Start replacing row(s).
+[2022-11-14 20:45:49][notice]Count of rows in wp_cartflows_ca_cart_abandonment: 0
+[2022-11-14 20:45:49][notice]Drop table if exist
+[2022-11-14 20:45:49][notice]Create table wp_cartflows_ca_email_history
+[2022-11-14 20:45:49][notice]Dumping table wp_cartflows_ca_email_history is complete. Start replacing row(s).
+[2022-11-14 20:45:49][notice]Count of rows in wp_cartflows_ca_email_history: 0
+[2022-11-14 20:45:49][notice]Drop table if exist
+[2022-11-14 20:45:49][notice]Create table wp_cartflows_ca_email_templates
+[2022-11-14 20:45:53][notice]Dumping table wp_cartflows_ca_email_templates is complete. Start replacing row(s).
+[2022-11-14 20:45:53][notice]Count of rows in wp_cartflows_ca_email_templates: 3
+[2022-11-14 20:45:53][notice]Replace the row in 0 line.
+[2022-11-14 20:45:53][notice]finish replace rows
+[2022-11-14 20:45:53][notice]Drop table if exist
+[2022-11-14 20:45:53][notice]Create table wp_cartflows_ca_email_templates_meta
+[2022-11-14 20:45:54][notice]Dumping table wp_cartflows_ca_email_templates_meta is complete. Start replacing row(s).
+[2022-11-14 20:45:54][notice]Count of rows in wp_cartflows_ca_email_templates_meta: 18
+[2022-11-14 20:45:54][notice]Replace the row in 0 line.
+[2022-11-14 20:45:54][notice]finish replace rows
+[2022-11-14 20:45:54][notice]Drop table if exist
+[2022-11-14 20:45:54][notice]Create table wp_commentmeta
+[2022-11-14 20:45:55][notice]Dumping table wp_commentmeta is complete. Start replacing row(s).
+[2022-11-14 20:45:55][notice]Count of rows in wp_commentmeta: 0
+[2022-11-14 20:45:55][notice]Drop table if exist
+[2022-11-14 20:45:55][notice]Create table wp_comments
+[2022-11-14 20:45:56][notice]Dumping table wp_comments is complete. Start replacing row(s).
+[2022-11-14 20:45:56][notice]Count of rows in wp_comments: 4
+[2022-11-14 20:45:56][notice]Replace the row in 0 line.
+[2022-11-14 20:45:56][notice]finish replace rows
+[2022-11-14 20:45:56][notice]Drop table if exist
+[2022-11-14 20:45:56][notice]Create table wp_e_events
+[2022-11-14 20:45:57][notice]Dumping table wp_e_events is complete. Start replacing row(s).
+[2022-11-14 20:45:57][notice]Count of rows in wp_e_events: 10
+[2022-11-14 20:45:57][notice]Replace the row in 0 line.
+[2022-11-14 20:45:57][notice]finish replace rows
+[2022-11-14 20:45:57][notice]Drop table if exist
+[2022-11-14 20:45:57][notice]Create table wp_links
+[2022-11-14 20:45:58][notice]Dumping table wp_links is complete. Start replacing row(s).
+[2022-11-14 20:45:58][notice]Count of rows in wp_links: 0
+[2022-11-14 20:45:58][notice]Drop table if exist
+[2022-11-14 20:45:58][notice]Create table wp_litespeed_url
+[2022-11-14 20:45:58][notice]Dumping table wp_litespeed_url is complete. Start replacing row(s).
+[2022-11-14 20:45:58][notice]Count of rows in wp_litespeed_url: 0
+[2022-11-14 20:45:58][notice]Drop table if exist
+[2022-11-14 20:45:58][notice]Create table wp_litespeed_url_file
+[2022-11-14 20:45:59][notice]Dumping table wp_litespeed_url_file is complete. Start replacing row(s).
+[2022-11-14 20:45:59][notice]Count of rows in wp_litespeed_url_file: 0
+[2022-11-14 20:45:59][notice]Drop table if exist
+[2022-11-14 20:45:59][notice]Create table wp_options
+[2022-11-14 20:46:44][notice]Dumping table wp_options is complete. Start replacing row(s).
+[2022-11-14 20:46:44][notice]Count of rows in wp_options: 755
+[2022-11-14 20:46:44][notice]Replace the row in 0 line.
+[2022-11-14 20:46:45][notice]finish replace rows
+[2022-11-14 20:46:45][notice]Drop table if exist
+[2022-11-14 20:46:46][notice]Create table wp_postmeta
+[2022-11-14 20:49:11][notice]Dumping table wp_postmeta is complete. Start replacing row(s).
+[2022-11-14 20:49:11][notice]Count of rows in wp_postmeta: 2314
+[2022-11-14 20:49:11][notice]Replace the row in 0 line.
+[2022-11-14 20:49:21][notice]finish replace rows
+[2022-11-14 20:49:21][notice]Drop table if exist
+[2022-11-14 20:49:21][notice]Create table wp_posts
+[2022-11-14 20:49:48][notice]Dumping table wp_posts is complete. Start replacing row(s).
+[2022-11-14 20:49:48][notice]Count of rows in wp_posts: 353
+[2022-11-14 20:49:48][notice]Replace the row in 0 line.
+[2022-11-14 20:49:52][notice]finish replace rows
+[2022-11-14 20:49:52][notice]Drop table if exist
+[2022-11-14 20:49:52][notice]Create table wp_termmeta

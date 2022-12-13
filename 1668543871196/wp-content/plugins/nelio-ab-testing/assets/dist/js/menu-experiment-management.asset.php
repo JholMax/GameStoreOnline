@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('nab-components', 'nab-data', 'nab-utils', 'wp-api-fetch', 'wp-components', 'wp-element', 'wp-i18n', 'wp-url'), 'version' => '9e1a295f53b87961bd45e51012eabfc5');

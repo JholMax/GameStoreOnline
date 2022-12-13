@@ -1,0 +1,1 @@
+/opt/lampp/htdocs/wordpress/1668543871196/wp-content/plugins/query-monitor/wp-content/db.php
